@@ -1,6 +1,5 @@
 #include<vector>
 #include<random>
-#include<iostream>
 using std::vector;
 
 int RandPartition(vector<int> &v, int start, int end)
